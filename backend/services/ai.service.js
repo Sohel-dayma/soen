@@ -35,7 +35,7 @@ const model = genAI.getGenerativeModel({
                     console.log('Server is running on port 3000');
                 })
                 "
-            
+            }           
         },
     },
 
@@ -57,13 +57,13 @@ const model = genAI.getGenerativeModel({
                     "dependencies": {
                         "express": "^4.21.2"
                     }
-}
+}   
 
-                
+
                 "
-                
-                
 
+                
+                
             },
 
         },
